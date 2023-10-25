@@ -1,0 +1,297 @@
+*{
+    margin: 0%;
+}
+
+#menu{
+    background-color: #202020;
+    width: 35%;
+    height: 100vh;
+}
+
+.home{
+    height: 4vh;
+}
+
+.img-youtube{
+    height: 10vh !important;
+    margin-left: 10%;
+}
+
+.text-menu{
+    color: white;
+    font-family: sans-serif;
+    align-self: center;
+    margin-left: 10%;
+}
+
+.container-menu{
+    display: flex;
+    flex-direction: row;
+    margin-left: 35%;
+}
+
+#menu-hamburguesa{
+    display: flex;
+    align-self: center;
+    height: 4vh;
+}
+
+.text-separacion{
+    margin-top: 5.5%;
+}
+
+#inicio{
+    margin-top: 11%;
+}
+
+#text-menu{
+    margin-top: 11%;
+}
+
+#menu2{
+    display: flex;
+    background-color: #202020;
+    padding: 1%;
+    height: 10vh;
+    align-items: center;
+}
+
+#container-navs{
+    display: flex;
+}
+
+#buscador{
+    display: flex;
+    background-color: #121212;
+    width: 40%;
+    height: 5vh;
+    margin-left: 12%;
+}
+
+#text-buscar{
+    display: flex;
+    color: #676767;
+    align-self: center;
+    font-family: sans-serif;
+    margin-left: 2.5%;
+    font-weight:lighter;
+}
+
+#lupa{
+    display: flex;
+    background-color: #313131;
+    width: 5%;
+    height: 5vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#img-lupa{
+    height: fit-content;
+    width: 35%;
+}
+
+#microfono{
+    display: flex;
+    background-color: #181818;
+    width: 5%;
+    height: 5vh;
+    align-items: center;
+    justify-content: center;
+    border-radius: 35%;
+    margin-left: 1%;
+}
+
+#perfil{
+    display: flex;
+    margin-left: 150px;
+}
+
+#img-microfono{
+    height: fit-content;
+    width: 35%;
+}
+
+
+
+#mas{
+    height: 5vh;
+
+}
+
+#l{
+    height: 5vh;
+    padding-left: 15px;
+}
+
+#campana{
+    height: 5vh;
+    padding-left: 15px;
+}
+
+#multiple{
+    height: 5vh;
+    padding-left: 15px;
+}
+
+#menu3{
+    background-color: #202020;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+#circulo1{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+    padding: 1.5%;
+}
+
+#todo{
+    font-size: medium;
+    padding: 3.5%;
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo2{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#seiya{
+    font-size: smaller;
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo3{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#rabbids{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo4{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#musica{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo5{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#mixes{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo5{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#circulo6{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#mario{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo7{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#link{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo8{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#jefe{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo9{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#hablar{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo10{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#kirby{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo11{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#angry{
+    color: white;
+    font-family: sans-serif;
+}
+
+#circulo12{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#directo{
+    margin-left: 27.5%;
+}
+
+#circulo13{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#plantas{
+    margin-left: 20.5%;
+}
+
+#circulo14{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#avance{
+    margin-left: 34.5%;
+}
+
+#circulo15{
+    border-radius: 35%;
+    background-color: #4D4D4D;
+}
+
+#nintendo{
+    margin-left: 20.5%;
+}
